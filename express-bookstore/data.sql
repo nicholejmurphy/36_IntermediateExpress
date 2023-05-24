@@ -1,4 +1,4 @@
-\c bookstore
+\c books
 
 CREATE TABLE books (
   isbn TEXT PRIMARY KEY,
